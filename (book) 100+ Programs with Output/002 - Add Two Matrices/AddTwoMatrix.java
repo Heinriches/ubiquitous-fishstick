@@ -21,7 +21,7 @@ class AddTwoMatrix{
 			
 			int first [][]		= new int [m][n];
 			int second [][]		= new int [m][n];
-			sum [][]			= new int [m][n];
+			int sum [][]			= new int [m][n];
 			
 			//	---	---	---	---	---	---	---	---	---
 			
