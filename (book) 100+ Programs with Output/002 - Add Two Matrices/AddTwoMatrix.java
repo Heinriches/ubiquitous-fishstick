@@ -7,9 +7,19 @@
 
 import java.util.Scanner;
 
-
 class AddTwoMatrix{
 	public static void main(String[] args) {
-		
+		public static void main(String[]) {
+			Scanner in = new Scanner(System.in);
+			
+			System.out.println("Inform how many rows and columns there are on your matrix: ");
+			int m = in.nextInt();
+			int n = in. nextInt();
+			
+			int first [] ][]	= new int [m] [n];
+			int second [][]		= new int [m] [n];
+			sum [][]			= new int [m] [n];
+			
+		}
 	}
 }
