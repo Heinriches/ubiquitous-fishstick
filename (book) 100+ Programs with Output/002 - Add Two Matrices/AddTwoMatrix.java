@@ -12,7 +12,7 @@ class AddTwoMatrix{
 		public static void main(String[]) {
 			Scanner in = new Scanner(System.in);
 			
-			System.out.println("Inform how many rows and columns there are on your matrix: ");
+			System.out.println("Inform the number of rows and columns in your matrix: ");
 			int m = in.nextInt();
 			int n = in. nextInt();
 			
