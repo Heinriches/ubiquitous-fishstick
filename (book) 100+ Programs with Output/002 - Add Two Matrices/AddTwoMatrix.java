@@ -16,9 +16,9 @@ class AddTwoMatrix{
 			int m = in.nextInt();
 			int n = in. nextInt();
 			
-			int first [][]	= new int [m] [n];
-			int second [][]		= new int [m] [n];
-			sum [][]			= new int [m] [n];
+			int first [][]	= new int [m][n];
+			int second [][]		= new int [m][n];
+			sum [][]			= new int [m][n];
 			
 		}
 	}
