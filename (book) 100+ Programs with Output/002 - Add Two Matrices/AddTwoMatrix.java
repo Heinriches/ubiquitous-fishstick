@@ -51,7 +51,7 @@ class AddTwoMatrix{
 		System.out.println("Sum of entered matices = ");
 		for(int c = 0; c < m; c++) {
 			for(int d = 0; d < n; d++) {
-				System.out.println(sum [c][d] +"\t");
+				System.out.print(sum [c][d] +"\t");
 			}
 		}
 		System.out.println();
