@@ -41,7 +41,10 @@ class AddTwoMatrix{
 		//	---	---	---	---	---	---	---	---	---
 		System.out.println("Here is your first matrix: ");
 		for(int c = 0 ; c < m ; c++) {
-			System.out.println(first [c][d]);
+			System.out.println();
+			for(int d = 0; d < n; d++) {
+				System.out.print(first [c][d] +", " +"\t" );
+			}
 		}
 		
 		
