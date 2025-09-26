@@ -45,6 +45,7 @@ class AddTwoMatrix{
 			for(int d = 0; d < n; d++) {
 				System.out.print(first [c][d] +", " +"\t" );
 			}
+			System.out.println();
 		}
 		
 		
