@@ -72,6 +72,7 @@ class AddTwoMatrix{
 			for(int d = 0; d < n; d++) {
 				System.out.print(sum [c][d] +"\t");
 			}
+			System.out.println();
 		}
 		System.out.println();
 		
