@@ -41,18 +41,18 @@ class AddTwoMatrix{
 		//	---	---	---	---	---	---	---	---	---
 		System.out.println("MATRIX 1: ");
 		for(int c = 0 ; c < m ; c++) {
-			System.out.println();
 			for(int d = 0; d < n; d++) {
-				System.out.print(first [c][d] +", " +"\t" );
+				System.out.print(first [c][d] +"\t" );
+				System.out.println();
 			}
 			System.out.println();
 		}
 		
 		System.out.println("MATRIX 2: ");
-		for(int c = 0 ; c < m ; c++) {
-			System.out.println();
+		for(int c = 0 ; c < m ; c++) {			
 			for(int d = 0; d < n; d++) {
-				System.out.print(first [c][d] +", " +"\t" );
+				System.out.print(second [c][d] +"\t" );
+				System.out.println();
 			}
 			System.out.println();
 		}
